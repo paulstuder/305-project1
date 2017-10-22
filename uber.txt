@@ -1,15 +1,15 @@
-driver, 5, Meryln Wood, 0.69, (0,0), true, rarri, 2
-driver, 90, Uncle Jimmy, 3, (10,10), true, wraith, 3
-driver, 5000000, Wizop, 5, (20,20), true, drop top wop, 5
-driver, 5, Travis Scott, 5, (0,0), true, bullet coup spaceship, 2
-driver, 100, J Cole, 3, (0,0), true, not a rapper car, 3
-driver, 100, lil yachty", 3, (0,0), true, lil boat, 3
-driver, 100, Joey Bada$$", 3, (0,0), true, 500 Benz, 3
-driver, 100, Rick Ross", 3, (0,0), true, Maybach, 3
-driver, 100, Young Thug", 3, (0,0), true, Bently with the top chopped off, 3
-driver, 100, Offset, 3, (0,0), true, Lamboghini with the load pipes, 3
-passenger, 1000000, Lord Pretty Flacko, 4.5, (1,1), (299,90)
-passenger, 10000, Quavo, .3, (30,30), (300,300)
-passenger, 1, Ty $, 2, (5,5), (-5,10)
-passenger, 100, YG, 2, (0,0), (1,0)
-passenger, 1, Schoolboy Q, 3.5, (0,0), (299,299)
+driver, 100, Driver_1, 3, (0,0), true, rarri, 2
+driver, 100, Driver_2, 3, (30,30), true, wraith, 2
+driver, 100, Driver_3, 3, (60,60), true, drop top wop, 2
+driver, 100, Driver_4, 3, (90,90), true, bullet coup spaceship, 2
+driver, 100, Driver_5, 3, (120,120), true, not a rapper car, 2
+driver, 100, Driver_6, 3, (150,150), true, lil boat, 2
+driver, 100, Driver_7, 3, (180,180), true, 500 Benz, 2
+driver, 100, Driver_8, 3, (210,210), true, Maybach, 2
+driver, 100, Driver_9, 3, (240,240), true, Bently with the top chopped off, 2
+driver, 100, Driver_10, 3, (270,270), true, Lamboghini with the load pipes, 2
+passenger, 100, Passenger_1, 4, (10,10), (90,90)
+passenger, 100, Passenger_2, 4, (60,60), (200,200)
+passenger, 100, Passenger_3, 4, (110,110), (100,100)
+passenger, 100, Passenger_4, 4, (160,160), (150,150)
+passenger, 100, Passenger_5, 4, (210,210), (250,250)
