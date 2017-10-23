@@ -1,0 +1,50 @@
+Driver: Driver_1
+Passenger: Passenger_1
+Start Location: [10, 10]
+End Location: [90, 90]
+Ride Fare: 63.64
+Wait Time: 35.36
+Ride Time: 282.84
+Driver's Rating: 3.0
+Passenger's Rating: 2.5
+Driver's Balance: 150.91
+Passenger's Balance: 936.36
+--------------------------------------------------------------------------
+Driver: Driver_3
+Passenger: Passenger_2
+Start Location: [60, 60]
+End Location: [200, 200]
+Ride Fare: 98.99
+Wait Time: 0.0
+Ride Time: 494.97
+Driver's Rating: 3.0
+Passenger's Rating: 2.5
+Driver's Balance: 179.19
+Passenger's Balance: 901.01
+--------------------------------------------------------------------------
+Driver: Driver_5
+Passenger: Passenger_3
+Start Location: [110, 110]
+End Location: [100, 100]
+Ride Fare: 14.14
+Wait Time: 35.36
+Ride Time: 35.36
+Driver's Rating: 3.0
+Passenger's Rating: 2.5
+Driver's Balance: 111.31
+Passenger's Balance: 985.86
+--------------------------------------------------------------------------
+Driver: Driver_6
+Passenger: Passenger_4
+Start Location: [160, 160]
+End Location: [150, 150]
+Ride Fare: 14.14
+Wait Time: 35.36
+Ride Time: 35.36
+Driver's Rating: 3.5
+Passenger's Rating: 3.0
+Driver's Balance: 111.31
+Passenger's Balance: 985.86
+--------------------------------------------------------------------------
+Passenger_5 ride request was unsuccessful
+--------------------------------------------------------------------------

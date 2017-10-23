@@ -8,8 +8,8 @@ driver, 100, Driver_7, 3, (180,180), true, 500 Benz, 2
 driver, 100, Driver_8, 3, (210,210), true, Maybach, 2
 driver, 100, Driver_9, 3, (240,240), true, Bently with the top chopped off, 2
 driver, 100, Driver_10, 3, (270,270), true, Lamboghini with the load pipes, 2
-passenger, 100, Passenger_1, 4, (10,10), (90,90)
-passenger, 100, Passenger_2, 4, (60,60), (200,200)
-passenger, 100, Passenger_3, 4, (110,110), (100,100)
-passenger, 100, Passenger_4, 4, (160,160), (150,150)
-passenger, 100, Passenger_5, 4, (210,210), (250,250)
+passenger, 1000, Passenger_1, 4, (10,10), (90,90)
+passenger, 1000, Passenger_2, 4, (60,60), (200,200)
+passenger, 1000, Passenger_3, 4, (110,110), (100,100)
+passenger, 1000, Passenger_4, 4, (160,160), (150,150)
+passenger, 1000, Passenger_5, 4, (210,210), (350,250)

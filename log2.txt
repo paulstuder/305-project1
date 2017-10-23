@@ -1,15 +1,15 @@
-Name: Driver_1 Balance: 100.0 Rating: 3.0 Location: [0, 0] Available: false Car: rarri Rating Requirement: 2.0
-Name: Driver_2 Balance: 100.0 Rating: 3.0 Location: [30, 30] Available: false Car: wraith Rating Requirement: 2.0
-Name: Driver_3 Balance: 100.0 Rating: 3.0 Location: [60, 60] Available: false Car: drop top wop Rating Requirement: 2.0
+Name: Driver_1 Balance: 150.91 Rating: 3.0 Location: [90, 90] Available: true Car: rarri Rating Requirement: 2.0
+Name: Driver_2 Balance: 100.0 Rating: 3.0 Location: [30, 30] Available: true Car: wraith Rating Requirement: 2.0
+Name: Driver_3 Balance: 179.19 Rating: 3.0 Location: [200, 200] Available: true Car: drop top wop Rating Requirement: 2.0
 Name: Driver_4 Balance: 100.0 Rating: 3.0 Location: [90, 90] Available: true Car: bullet coup spaceship Rating Requirement: 2.0
-Name: Driver_5 Balance: 100.0 Rating: 3.0 Location: [120, 120] Available: false Car: not a rapper car Rating Requirement: 2.0
-Name: Driver_6 Balance: 100.0 Rating: 3.0 Location: [150, 150] Available: false Car: lil boat Rating Requirement: 2.0
+Name: Driver_5 Balance: 111.31 Rating: 3.0 Location: [100, 100] Available: true Car: not a rapper car Rating Requirement: 2.0
+Name: Driver_6 Balance: 111.31 Rating: 3.5 Location: [150, 150] Available: true Car: lil boat Rating Requirement: 2.0
 Name: Driver_7 Balance: 100.0 Rating: 3.0 Location: [180, 180] Available: true Car: 500 Benz Rating Requirement: 2.0
 Name: Driver_8 Balance: 100.0 Rating: 3.0 Location: [210, 210] Available: true Car: Maybach Rating Requirement: 2.0
 Name: Driver_9 Balance: 100.0 Rating: 3.0 Location: [240, 240] Available: true Car: Bently with the top chopped off Rating Requirement: 2.0
 Name: Driver_10 Balance: 100.0 Rating: 3.0 Location: [270, 270] Available: true Car: Lamboghini with the load pipes Rating Requirement: 2.0
-Name: Passenger_1 Balance: 100.0 Rating: 4.0 Location: [10, 10]
-Name: Passenger_2 Balance: 100.0 Rating: 4.0 Location: [60, 60]
-Name: Passenger_3 Balance: 100.0 Rating: 4.0 Location: [110, 110]
-Name: Passenger_4 Balance: 100.0 Rating: 4.0 Location: [160, 160]
-Name: Passenger_5 Balance: 100.0 Rating: 4.0 Location: [210, 210]
+Name: Passenger_1 Balance: 936.36 Rating: 2.5 Location: [90, 90]
+Name: Passenger_2 Balance: 901.01 Rating: 2.5 Location: [200, 200]
+Name: Passenger_3 Balance: 985.86 Rating: 2.5 Location: [100, 100]
+Name: Passenger_4 Balance: 985.86 Rating: 3.0 Location: [150, 150]
+Name: Passenger_5 Balance: 1000.0 Rating: 4.0 Location: [210, 210]
